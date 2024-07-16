@@ -1,6 +1,7 @@
 mountpoints:
-  /: https://drive.google.com/drive/folders/1OulF2dpGr3f_1YVlRpuzhyVuQKCHOc1k 
+  /:  https://drive.google.com/drive/folders/1k5dQFvPXpRHYxX0LtjJjblieKyEmR5NW?usp=sharing 
   #/:
-  #  url: https://drive.google.com/drive/folders/1k5dQFvPXpRHYxX0LtjJjblieKyEmR5NW?usp=drive_link
+  #  url:  https://drive.google.com/drive/folders/1k5dQFvPXpRHYxX0LtjJjblieKyEmR5NW?usp=sharing
+         
   #  type: markup
   #  suffix: ".html?wcmmode=disabled"
